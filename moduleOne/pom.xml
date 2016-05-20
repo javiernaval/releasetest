@@ -10,9 +10,9 @@
 
 
     <scm>
-        <url>scm:git:git@github.com:javiernaval/releasetest.git</url>
-        <connection>scm:git:git@github.com:javiernavall/releasetes.gitt</connection>
-        <developerConnection>scm:git:git@github.com:javiernaval/releasetest.git</developerConnection>
+        <url>https://github.com/javiernaval/releasetest.git</url>
+        <connection>https://github.com/javiernaval/releasetest.git</connection>
+        <developerConnection>https://github.com/javiernaval/releasetest.git</developerConnection>
     </scm>
 
     <build>
