@@ -10,9 +10,9 @@
 
 
     <scm>
-        <url>https://github.com/javiernaval/releasetest.git</url>
+        <url>https://github.com/javiernaval/releasetest/moduleOne</url>
         <connection>https://github.com/javiernaval/releasetest.git</connection>
-        <developerConnection>https://github.com/javiernaval/releasetest.git</developerConnection>
+        <developerConnection>scm:git:ssh//git@github.com:javiernaval/releasetest.git</developerConnection>
     </scm>
 
     <build>
