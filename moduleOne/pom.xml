@@ -8,7 +8,7 @@
 
 
     <scm>
-        <developerConnection>scm:git:git://github.com/javiernaval/releasetest</developerConnection>
+        <developerConnection>https://github.com/javiernaval/releasetest/releasetest.git</developerConnection>
       <tag>v1.0 First Release</tag>
   </scm>
 
